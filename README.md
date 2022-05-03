@@ -4,6 +4,11 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
+#### Hardware
+#### Software
+#### Data
+#### People
+#### process
 
 ### Software
 #### GitHub
